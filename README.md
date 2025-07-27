@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site](https://mickparis.github.io/Project-17---Social-proof-section/)
+- Live Site URL: [Social Proof Section](https://mickparis.github.io/Project-17---Social-proof-section/)
 
 ## My process
 
