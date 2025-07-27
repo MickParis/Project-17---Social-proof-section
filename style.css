@@ -178,6 +178,7 @@ p {
 
     .text__container {
         padding-right: 5rem;
+        padding-block-end: 2rem;
         grid-area: one;
     }
 
@@ -194,7 +195,11 @@ p {
     }
 
     .report-guru {
-        margin-right: 3rem;
+        margin-inline: 3rem;
+    }
+
+    .best-tech {
+        margin-left: 6rem;
     }
 
     .rate__container {
